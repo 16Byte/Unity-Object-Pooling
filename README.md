@@ -1,5 +1,8 @@
 # PMG Pooling
 
+<img width="858" height="486" alt="PoolerRenderedExample" src="https://github.com/user-attachments/assets/e35b880c-f917-40c3-a131-24f09cc9826d" />
+<img width="416" height="988" alt="HierarchyExample3" src="https://github.com/user-attachments/assets/2a7d35cb-9853-4fd2-8cd8-559effa2ceda" />
+
 An `Instantiate`-shaped object pooling system for Unity. Drop-in replacement for `Instantiate`/`Destroy` with automatic pool management, lazy initialization, and hierarchy organization. Built on `UnityEngine.Pool.ObjectPool<T>` internally — battle-tested infrastructure, ergonomic surface.
 
 ## Why pool
