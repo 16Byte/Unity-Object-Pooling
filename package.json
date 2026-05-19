@@ -1,0 +1,29 @@
+
+{
+  "name": "com.playermadegames.pooling",
+  "version": "1.0.0",
+  "displayName": "PMG Object Pooling",
+  "description": "A drop-in replacement for Instantiate/Destroy with automatic object pooling. Built on Unity's UnityEngine.Pool.ObjectPool<T>, organized for hierarchy cleanliness, with lifecycle hooks for poolable behavior. Works with or without a manager component in scene (lazy bootstrap).",
+  "unity": "6000.0",
+  "author": {
+    "name": "Player Made Games",
+    "url": "https://github.com/16Byte"
+  },
+  "license": "MIT",
+  "keywords": [
+    "pooling",
+    "object-pool",
+    "performance",
+    "tools",
+    "instantiate",
+    "spawning",
+    "pmg"
+  ],
+  "samples": [
+    {
+      "displayName": "Basic Spawning",
+      "description": "Demonstrates the full lifecycle of a pooled object: spawn, behavior, auto-return after delay.",
+      "path": "Samples~/BasicSpawning"
+    }
+  ]
+}
