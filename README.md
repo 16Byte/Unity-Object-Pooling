@@ -40,7 +40,7 @@ Typically called from the object itself when its work is done (timed lifetime, d
 In Unity, open **Window → Package Manager**, click the **+** dropdown, choose **Add package from git URL**, and paste:
 
 ```
-https://github.com/16Byte/PMG.Pooling.git
+https://github.com/16Byte/Unity-Object-Pooling.git
 ```
 
 UPM will fetch the package and add it to your project's `Packages/manifest.json`. Updates pulled with the Package Manager's refresh button.
