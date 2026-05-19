@@ -158,4 +158,4 @@ MIT — see [LICENSE.md](LICENSE.md). Free for commercial and personal use, incl
 
 ## Contributing
 
-Issues and pull requests welcome at [github.com/16Byte/PMG.Pooling](https://github.com/16Byte/Unity-Object-Pooling).
+Issues and pull requests welcome at [github.com/16Byte/Unity-Object-Pooling](https://github.com/16Byte/Unity-Object-Pooling).
