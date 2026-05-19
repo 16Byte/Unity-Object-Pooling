@@ -47,7 +47,7 @@ UPM will fetch the package and add it to your project's `Packages/manifest.json`
 
 ### .unitypackage
 
-Download the latest `.unitypackage` from the [Releases](https://github.com/16Byte/PMG.Pooling/releases) page and drag it into your Unity project's Assets folder.
+Download the latest `.unitypackage` from the [Releases](https://github.com/16Byte/Unity-Object-Pooling/releases) page and drag it into your Unity project's Assets folder.
 
 ## API
 
@@ -158,4 +158,4 @@ MIT — see [LICENSE.md](LICENSE.md). Free for commercial and personal use, incl
 
 ## Contributing
 
-Issues and pull requests welcome at [github.com/16Byte/PMG.Pooling](https://github.com/16Byte/PMG.Pooling).
+Issues and pull requests welcome at [github.com/16Byte/PMG.Pooling](https://github.com/16Byte/Unity-Object-Pooling).
